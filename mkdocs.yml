@@ -1,0 +1,21 @@
+site_name: Tarmo Johannes's site 
+site_url: https://tarmoj.github.io
+markdown_extensions:
+  - attr_list
+theme:
+  name: terminal
+  palette: dark
+  features:
+    - footer.prev_next
+#    - navigation.side.hide
+#    - navigation.side.toc.hide
+    - navigation.top.hide
+    - navigation.top.cursor_animation.hide
+    - navigation.top.search_button.hide
+    - revision.date
+    - revision.history
+    
+nav:
+  - Home: index.md
+  - NB! Dark-warm Tallinn Tour: tumesoe.md
+
