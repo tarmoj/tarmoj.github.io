@@ -1,5 +1,6 @@
 # Tumesoe 
 
+[ENG](tumesoe-eng.md)
 
 „Tumesoe” on Tarmo Johannese originaalne teos, kus kesksel kohal on kanalisatsioonitorudest ise ehitatud hiiglaslik flööt.
 
@@ -18,13 +19,12 @@ Teos, õigemini selle erinevad osad,  on kõlanud väga erinevates kontekstides 
 Flöödid, idee ja teostus: Tarmo Johannes<br>
 Kestus: u 45..50 minutit<br>
 Toimumisaeg: 1.-4. juuli 2024<br>
-Sissepääs: 15/10 €, Muusikalinna Noortepilet 5 €<br>
 Korraldaja: MTÜ Vergin Danuques, koostöös Eesti Nüüdismuusika Keskusega<br>
 Kontakt: Tarmo Johannes trmjhnns@gmail.com<br>
 
 <br />
 
-## Kontserdid:
+## Kontserdid
 
 
 **E 1.07 kl 20** Von Glehni Teater, (Pärnu mnt 326)
@@ -40,7 +40,15 @@ Kontakt: Tarmo Johannes trmjhnns@gmail.com<br>
 <br/>
 
 ## Piletid
-15/10 €, muusikalinna noortepilet 5 € Fientas või kohapeal <QR>
+
+üks kontsert: 15/10 €
+
+muusikalinna noortepilet 5 € 
+
+fänni pilet (sissepääs kõikidele kontsertidele): 25 €
+
+Piletid [Fientas](https://fienta.com/et/tarmo-johannes-tumesoe-tallinna-tuur) või kohapeal.
+ <QR>
 
 
 <br>
