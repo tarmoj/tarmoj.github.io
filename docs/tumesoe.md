@@ -6,10 +6,12 @@
 
 ![](img/Rene-Jakonbson-6250v.jpg){: style="width:400px"}
 
+<small>Foto: Rene Jakobson</small>
+
 Loomulikult viitabki „Tumesoe” tolle pilli madalale ja eriliselt pehmele kõlale, millest hoolikalt just selle teose jaoks välja töötatud  arvutiprogramm hakkab tasapisi punuma helikangast,  midagi pehmet ja omal moel kaunist. Või on see hoopis helide sohva, millesse kuulaja võib mugavasti vajuda ja lasta end, silmad kinni, mujale kanda.  
 
 
-Kontserdid kõlavad suvise Tallinna äärelinna kontserdipaikades: Von Grahli Teatris Nõmmel, Kultuurikeskuses Kaja Mustamäel, Pirita Vaba Aja Keskuses, Tallinna Kunstihoone Lasnamäe paviljoni siseõues. 
+Kontserdid kõlavad suvise Tallinna äärelinna kontserdipaikades: Von Glehni Teatris Nõmmel, Kultuurikeskuses Kaja Mustamäel, Pirita Vaba Aja Keskuses, Tallinna Kunstihoone Lasnamäe paviljoni siseõues. 
 Tuur leab aset ajal, kui pea kogu kultuurielu kipub pigem linnast pagema. Ometigi – linn ei ole tühi ning „Tumesoe” pakub meeldivat ja usutavasti meeldejäävat äraolemist, pealegi veel paljude jaoks elukoha lähedal.
 
 Teos, õigemini selle erinevad osad,  on kõlanud väga erinevates kontekstides ning võetud alati hästi vastu: esiettekanne rahvusvahelisel Csoundi konvertsil Caglis (2019, Itaalia), fragmendina Thomas Desi etenduses „Tarkovski 8.film” Viinis, Tallinnas ja Tartus (2020), alternatiivsel klubiüritusel Konsum – ULM (2021), festivalidel Sound Plasma ja Üle Heli (2023). Täiendatud, õhtut täitvas versioonis tuleb teos 2024. suvel ettekandele esimest korda.
@@ -55,5 +57,9 @@ Piletid [Fientas](https://fienta.com/et/tarmo-johannes-tumesoe-tallinna-tuur) v�
 
 ## Viited
 
+Teaser:
+<iframe width="853" height="480" src="https://www.youtube.com/embed/enNf9Z0eYno" title="&quot;Tumesoe&quot; (Dark-warm) teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 Video (I osa, esiettekanne, Itaalias):
-<iframe width="900" height="506" src="https://www.youtube.com/embed/cTClzfLD4r0" title="CONCERT I (4) - Dark-warm - TARMO JOHANNES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/cTClzfLD4r0" title="CONCERT I (4) - Dark-warm - TARMO JOHANNES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
