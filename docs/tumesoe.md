@@ -2,6 +2,8 @@
 
 [ENG](tumesoe-eng.md)
 
+["Tumesoe" toetuskampaania Hooandjas.](https://www.hooandja.ee/projekt/tumesoe)
+
 „Tumesoe” on Tarmo Johannese originaalne teos, kus kesksel kohal on kanalisatsioonitorudest ise ehitatud hiiglaslik flööt.
 
 ![](img/Rene-Jakonbson-6250v.jpg){: style="width:400px"}
@@ -56,6 +58,10 @@ Piletid [Fientas](https://fienta.com/et/tarmo-johannes-tumesoe-tallinna-tuur) v�
 <br>
 
 ## Viited
+
+[Facebook](https://www.facebook.com/profile.php?id=61558474935668)
+
+["Tumesoe" toetuskampaania Hooandjas.](https://www.hooandja.ee/projekt/tumesoe)
 
 Teaser:
 <iframe width="853" height="480" src="https://www.youtube.com/embed/enNf9Z0eYno" title="&quot;Tumesoe&quot; (Dark-warm) teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
