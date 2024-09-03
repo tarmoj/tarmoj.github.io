@@ -2,7 +2,10 @@
 
 [EST](tumesoe.md)
 
-[Support "Tumesoe" at Hooandja!](https://www.hooandja.ee/projekt/tumesoe)
+
+["Tumesoe" album Bandcampis](https://tarmojohannes.bandcamp.com/album/tumesoe-dark-warm)
+
+To order a physical CD, please write to: t r m j h n n s (at) g m a i l (dot) c o m
 
 „Tumesoe” ("Dark-warm") is an original work by Tarmo Johannes, featuring a large self built flute made from sewer pipes.
 
