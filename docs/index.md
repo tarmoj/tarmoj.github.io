@@ -7,6 +7,7 @@
 
 ## Music
 
+[DUOS](duos.md)
 
 [Ensemble U:](https://www.uuu.ee)
 
