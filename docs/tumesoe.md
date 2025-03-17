@@ -2,10 +2,13 @@
 
 [ENG](tumesoe-eng.md)
 
-["Tumesoe" album Bandcampis](https://tarmojohannes.bandcamp.com/album/tumesoe-dark-warm)
+["Tumesoe" album Bandcampis](https://tarmojohannes.bandcamp.com/album/tumesoe-dark-warm) 
 
-CD tellimiseks saatke kiri: t r m j h n n s (ät) g m a i l (punkt) c o m 
+CD tellimiseks saatke kiri: t r m j h n n s (ät) g m a i l (punkt) c o m
 
+[Simon Cummingsi arvustus blogis 5:4](https://5against4.com/2024/10/18/tarmo-johannes-tumesoe/)
+
+***
 
 „Tumesoe” on Tarmo Johannese originaalne teos, kus kesksel kohal on kanalisatsioonitorudest ise ehitatud hiiglaslik flööt.
 
@@ -66,9 +69,13 @@ Piletid [Fientas](https://fienta.com/et/tarmo-johannes-tumesoe-tallinna-tuur) v�
 
 ["Tumesoe" album Bandcampis](https://tarmojohannes.bandcamp.com/album/tumesoe-dark-warm)
 
+[Simon Cummingsi arvustus blogis 5:4](https://5against4.com/2024/10/18/tarmo-johannes-tumesoe/)
+
 Teaser:
 <iframe width="853" height="480" src="https://www.youtube.com/embed/enNf9Z0eYno" title="&quot;Tumesoe&quot; (Dark-warm) teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Video (I osa, esiettekanne, Itaalias):
 <iframe width="853" height="480" src="https://www.youtube.com/embed/cTClzfLD4r0" title="CONCERT I (4) - Dark-warm - TARMO JOHANNES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+

@@ -7,6 +7,10 @@
 
 To order a physical CD, please write to: t r m j h n n s (at) g m a i l (dot) c o m
 
+[Review by Simon Cummings on "5:4"](https://5against4.com/2024/10/18/tarmo-johannes-tumesoe/)
+
+***
+
 „Tumesoe” ("Dark-warm") is an original work by Tarmo Johannes, featuring a large self built flute made from sewer pipes.
 
 ![](img/Rene-Jakonbson-6250v.jpg){: style="width:400px"}
@@ -67,6 +71,8 @@ At [Fienta](https://fienta.com/et/tarmo-johannes-tumesoe-tallinna-tuur) or on sp
 [Facebook](https://www.facebook.com/profile.php?id=61558474935668)
 
 [Support "Tumesoe" at Hooandja!](https://www.hooandja.ee/projekt/tumesoe)
+
+[Review by Simon Cummings on "5:4"](https://5against4.com/2024/10/18/tarmo-johannes-tumesoe/)
 
 Teaser:
 <iframe width="853" height="480" src="https://www.youtube.com/embed/enNf9Z0eYno" title="&quot;Tumesoe&quot; (Dark-warm) teaser" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
