@@ -11,29 +11,20 @@
 
 [Ensemble U:](https://www.uuu.ee)
 
-[Ensemble of Estonian Electronic Music Society](https://estelmus.com/)
+[Ensemble of Estonian Electronic Music Society](https://emamusic.ee/)
 
 [Solo projects](solo.md)
+
+[Darkwarm](tumesoe-eng.md)
 
 <br>
 
 
-## Software
-
-[vClick](https://tarmoj.github.io/vclick/) - wirefree clicktrack system.
-
-[Digisolf](https://otsakool.edu.ee/digisolf/) - ear training exercises
-
-[H5P Solfege](https://github.com/tarmoj/h5p-solfege) - content types for musical dictations and more for e-koolikott. See about [creating exercises](https://github.com/tarmoj/h5p-solfege/blob/main/documentation/creating-exercises.md).
-
-[Harjutsed muusikateooriaks](https://tarmoj.github.io/komp/index.html) (Autogenerating music theory exserciises)
-
-All [gihtub repositories](https://github.com/tarmoj/)
+## [Software](software.md)
 
 <br>
 
 ## Articles, radio programs
-
 
 <br>
 

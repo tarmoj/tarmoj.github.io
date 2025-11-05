@@ -11,7 +11,7 @@ The series "DUOS" is curated by Tarmo Johannes and features music for flute and 
 
 The concerts are held in collaboration with the Estonian Centre of Contemporary Music at the ECCM hall and offer carefully selected contemporary chamber music performed at a high level.
 
-
+Supported by: Cultural Endownment of Estonia, Estonian Authors' Society
 
 <br />
 
@@ -40,7 +40,7 @@ Kava:
 
 <br/> 
 
-**Autumn 2025 DUOD V** <br />
+**27.09 2025 DUOD V** <br />
 **Tarmo Johannes** (flute) - **Gunnhildur Einarsdóttir** (harf, Island/Saksamaa)
 
 Program:

@@ -1,5 +1,6 @@
 site_name: Tarmo Johannes's site 
 site_url: https://tarmoj.github.io
+
 markdown_extensions:
   - attr_list
 theme:
@@ -18,4 +19,13 @@ theme:
 nav:
   - Home: index.md
   - DUOS: duos.md
+  - Software: software.md
+
+# pip install mkdocs-exclude  
+plugins:
+  - exclude:
+      glob:
+        - "*.backup"
+        - "*.bak"
+        - "*.tmp"
 
