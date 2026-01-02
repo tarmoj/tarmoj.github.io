@@ -20,6 +20,7 @@ nav:
   - Home: index.md
   - DUOS: duos.md
   - Software: software.md
+  - Koosmänguklubi: club.md
 
 # pip install mkdocs-exclude  
 plugins:
