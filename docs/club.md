@@ -1,6 +1,7 @@
 # Koosmänguklubi
 
  ![](img/playing_together.png)
+<small><small><a href="http://www.freepik.com">Designed by gstudioimagen / Freepik</a></small></small>
 
  Kas pole nii, et  üks suuremaid rõõmusid muusikast on seda koos teha?
 
@@ -28,7 +29,9 @@ Koos mängimiseks on kahte tüüpi ansambleid:
 1) **improvisatsiooniansambel**. Selleks, et muusikat teha, on väga vähe vaja. Osaleda võib mistahes pilli või  häälega, mistahes ettevalmistusega. Mängitakse lihtsatele reeglitele toetuvaid vabasid improvisatsioone (so ei ole džässi vm stiilile põhinevad), et üksteist kuulata, midagi üheskoos  luua ja õppida teineteist mõistma ka ilma sõnadeta.
 
 
-2)  **klassikalise muusika ansambel**  moodustatakse huvilistest  vasvatvalt soovidele, pillidele, mänguoskustele. Mängimiseks valib ja vajadusel seab Tarmo Johannes sobivat repertuaari.  Repertuaar on valdavalt klassikalises võtmes, vanamuusikast 20. sajandini. Lood valitakse nii, et nad oleks võimalikult jõukohadsed ning õppimiseks ei kuluks palju vaeva.
+2)  **klassikalise muusika ansambel**  moodustatakse huvilistest  vasvatvalt soovidele, pillidele, mänguoskustele. Mängimiseks valib ja vajadusel seab Tarmo Johannes sobivat repertuaari.  Repertuaar on valdavalt klassikalises võtmes, vanamuusikast 20. sajandini. Lood valitakse nii, et nad oleks võimalikult jõukohadsed ning õppimiseks ei kuluks palju vaeva. 
+
+Huvi korral palun võtke ühendust (e-mail allpool) ja  andke teada, mis pilli mängite, milline muusika teile meeldib, kuidas kirjeldate oma mängusokust, kas soovite osaleda improvisatsiooni- või klassikalise muusika ansamblis.
 
 MILLAL ja KUS?  
 
@@ -45,7 +48,7 @@ Täpsemad ajad sõltuvad osalejatest ja koosseisudest.
  
 <h4>KONTAKT</h4>
  
- Huvi ja küsimuste korral [kirjutage](mailto:trmjhnns@gmail.com)   juglelt! 
+ Huvi ja küsimuste korral [kirjutage](mailto:trmjhnns@gmail.com)   julgelt! 
  
  <br>
  Tarmo Johannes
