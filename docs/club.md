@@ -8,7 +8,7 @@
 
  Kas oled õppinud või õppimas mõnda pilli ja tahaks seda kuskil ja kellegagi koos mängida? 
  
- <h4>MIS? KELLELE?</h4>
+ #### MIS? KELLELE?
 
 **KOOSMÄNGUKLUBI** on koos musitseerimise vorm, mõeldud eelkõige täiskasvanutest amatöörmuusikutele, aga loomulikult  on teretulnud kõik, kel iganes huvi.  Eelduseks on, et osaleja suudab enam-vähem ladusalt sobivas raskusastmes repertuaari noodist lugeda.
  
@@ -22,7 +22,7 @@ Klubi tegevust veab, aitab valida repertuaari ja  mängib kaasa kõigis ansambli
 ![](img/tarmo_johannes_rene_jakobson.jpg)
 
 
-*KUIDAS?*
+#### KUIDAS?
 
 Koos mängimiseks on kahte tüüpi ansambleid: 
 
@@ -33,7 +33,7 @@ Koos mängimiseks on kahte tüüpi ansambleid:
 
 Huvi korral palun võtke ühendust (e-mail allpool) ja  andke teada, mis pilli mängite, milline muusika teile meeldib, kuidas kirjeldate oma mängusokust, kas soovite osaleda improvisatsiooni- või klassikalise muusika ansamblis.
 
-MILLAL ja KUS?  
+#### MILLAL ja KUS?
 
 Koosmänguklubi toimub laupäeviti [GUITARIUM](https://guitarium.ee/)  ruumides, Planeedi 5, Tallinn. <br>
 Aitäh, Guitarium!<br>
@@ -41,12 +41,12 @@ Täpsemad ajad sõltuvad osalejatest ja koosseisudest.
 
  Ühe ansamblimängusessiooni kestus on  45 minutit. 
 
-<h4>TASU?</h4>
+#### TASU?
 
  Maksumus: ?15 € inimese kohta kord. 
  
  
-<h4>KONTAKT</h4>
+#### KONTAKT
  
  Huvi ja küsimuste korral [kirjutage](mailto:trmjhnns@gmail.com)   julgelt! 
  
