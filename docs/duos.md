@@ -24,7 +24,7 @@ Kõik kontserdid toimuvad Eesti Nüüdismuusika Keskuse saalis (Pühavimu tn 9, 
 ### Tulekul
 
 
-**September 2026 DUOD V**<br/>
+**7. märts 2026 kl 19 DUOD V**<br/>
 **Tarmo Johannes** (flööt) - **Gunnhildur Einarsdóttir** (harf, Island/Saksamaa) 
 
 Kavas: 
@@ -32,14 +32,13 @@ Kavas:
 
 **Ivan Fedele** - "Imaginery Skylines" (1998) flöödile ja harfile<br />
 **Salvatore Sciarrino** - "Fauno che fischia a un merlo" (1980) flöödile ja harfile<br />
-**Kaija Saariaho** - "Tocar" (2010/2014) versioon flöödile ja harfile <br />
 **Toru Takemitsu** - "Toward the Sea III" altflöödile ja harfile <br />
-
+jm
 
 
 ### Möödunud 
 
-**L 26.10.24 kl 29 DUOD I** <br />
+**L 26.10.24 kl 19 DUOD I** <br />
 **Tarmo Johannes** (flööt) - **Merje Roomere** (viiul)<br />
 
 

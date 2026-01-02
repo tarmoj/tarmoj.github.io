@@ -23,32 +23,15 @@ All concerts take place in the hall of ECCM (Pühavimu 9, Tallinn)
 
 
 
-
-**Sa April 12, 2025,   at 8 PM   DUOD IV** <br />
-**Tarmo Johannes** (flute) - **Dario Calderone** (double bass, Netherlands/Italy)
-
-
-![](img/tarmo-dario.png){: style="width:400px"}
-
-Kava: 
-
-**Bernhard Lang** (1957)  - "DW22. Winterlicht" (2010) for bass flute and double bass. 1st movement<br>
-**Age Veeroos** (1973)  -  "Haav" ("Wound") for solo quartertone flute (2025, **première**)<br>
-**Simon Steen-Andersen** (1976)  - "Next to Beside Besides" #5 for amplified piccolo & #9 for double bass (2003/2009) <br>
-**Dario Calderone** (1978) - "Aurale" (2017) for solo double bass<br>
-**Annea Lockwood** (1939) - "Jitterbug" (2010) for instruments and 6-channel tape<br>
-
-<br/> 
-
-**27.09 2025 DUOD V** <br />
+**March 7, 2026 DUOD V** <br />
 **Tarmo Johannes** (flute) - **Gunnhildur Einarsdóttir** (harf, Island/Saksamaa)
 
 Program:
 
- **Ivan Fedele** - "Imaginery Skylines" (1998) for flute and harp<br />
+**Ivan Fedele** - "Imaginery Skylines" (1998) for flute and harp<br />
 **Salvatore Sciarrino** - "Fauno che fischia a un merlo" (1980) for flute and harp<br />
-**Kaija Saariaho** - "Tocar" (2010/2014) version for flute and harp <br />
 **Toru Takemitsu** - "Toward the Sea III" for alto flute and harp <br />
+et al.
 
 <br>
 
@@ -62,7 +45,7 @@ Program:
 
 The concert is dedicated to the legendary Italian duo **Annamaria Morini** (1950-2016) -  **Enzo Porta** (1931-2020), for whom all of the duo pieces in the program  are written
 
-Program:  
+Program:
 
 **Franco Donatoni** -  "Ciglio II" (1993) for flute and violin <br />
 **Tristan Murail** -  "Unaswered questions" (1995) for solo flute <br />
@@ -110,6 +93,23 @@ Program:
 
 
 <br/> 
+
+**Sa April 12, 2025,   at 8 PM   DUOD IV** <br />
+**Tarmo Johannes** (flute) - **Dario Calderone** (double bass, Netherlands/Italy)
+
+
+![](img/tarmo-dario.png){: style="width:400px"}
+
+Kava: 
+
+**Bernhard Lang** (1957)  - "DW22. Winterlicht" (2010) for bass flute and double bass. 1st movement<br>
+**Age Veeroos** (1973)  -  "Haav" ("Wound") for solo quartertone flute (2025, **première**)<br>
+**Simon Steen-Andersen** (1976)  - "Next to Beside Besides" #5 for amplified piccolo & #9 for double bass (2003/2009) <br>
+**Dario Calderone** (1978) - "Aurale" (2017) for solo double bass<br>
+**Annea Lockwood** (1939) - "Jitterbug" (2010) for instruments and 6-channel tape<br>
+
+<br/> 
+
 
 ## Tickets
 
