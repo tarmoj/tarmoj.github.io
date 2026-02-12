@@ -17,26 +17,33 @@ Supported by: Cultural Endownment of Estonia, Estonian Authors' Society
 
 ## Concerts
 
-All concerts take place in the hall of ECCM (Pühavimu 9, Tallinn)
 
 ### COMING
 
 
 
 **March 7, 2026 DUOD V** <br />
-**Tarmo Johannes** (flute) - **Gunnhildur Einarsdóttir** (harf, Island/Saksamaa)
+**Tallinn College of Music and Ballet** (Pärnu r. 59, Tallinn), large chamber hall
+**Tarmo Johannes** (flute) - **Gunnhildur Einarsdóttir** (harp, Iceland)
+
+
+![](img/tarmo-gunnhildur.png){: style="width:400px"}
 
 Program:
 
-**Ivan Fedele** - "Imaginery Skylines" (1998) for flute and harp<br />
 **Salvatore Sciarrino** - "Fauno che fischia a un merlo" (1980) for flute and harp<br />
-**Toru Takemitsu** - "Toward the Sea III" for alto flute and harp <br />
-et al.
-
+**Luciano Berio** - *Sequenza II* (1963) for harp </br>
+**Gudmundur Steinn Gunnarson** -  new work for flute and harp (**esiettekanne**)<br/>
+**Ivan Fedele** - "Imaginery Skylines" (1998) for flute and harp<br />
+**Toivo Tulev** -  "Dawn, almost Dawn" (2021) for *mansur ney*, version for bass flute (**permière of the version**)<br/>
+**Toru Takemitsu** - "Toward the Sea III" (1989) for alto flute and harp<br />
 <br>
 
 
 ### PAST
+
+All concerts take place in the hall of ECCM (Pühavimu 9, Tallinn)
+
 
 **Sa 26.10.24,  7 PM DUOS I** <br />
 **Tarmo Johannes** (flute) - **Merje Roomere** (violin)

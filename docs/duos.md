@@ -19,24 +19,31 @@ Toetajad: Eesti Kultuurkapital, Eesti Autorite Ühing
 
 ## Kontserdid
 
-Kõik kontserdid toimuvad Eesti Nüüdismuusika Keskuse saalis (Pühavimu tn 9, Tallinn)
+
 
 ### Tulekul
 
 
-**7. märts 2026 kl 19 DUOD V**<br/>
+**7. märts 2026 kl 19 DUOD V**<br/>  
+**Tallinna Muusika ja Balletikool MUBA** (Pärnu mnt 59, Tallinn), suur kammersaal <br/>
 **Tarmo Johannes** (flööt) - **Gunnhildur Einarsdóttir** (harf, Island/Saksamaa) 
+
+![](img/tarmo-gunnhildur.png){: style="width:400px"}
 
 Kavas: 
 
-
-**Ivan Fedele** - "Imaginery Skylines" (1998) flöödile ja harfile<br />
 **Salvatore Sciarrino** - "Fauno che fischia a un merlo" (1980) flöödile ja harfile<br />
-**Toru Takemitsu** - "Toward the Sea III" altflöödile ja harfile <br />
-jm
+**Luciano Berio** - Sequenza II (1963) harfile </br>
+**Gudmundur Steinn Gunnarson** -  uus teos (**esiettekanne**)<br/>
+**Ivan Fedele** - "Imaginery Skylines" (1998) flöödile ja harfile<br />
+**Toivo Tulev** -  "Dawn, almost Dawn" (2021) *mansur ney*'le, versioon bassflöödile (**versiooni esiettekanne**)<br/>
+**Toru Takemitsu** - "Toward the Sea III" (1989) altflöödile ja harfile <br />
+
 
 
 ### Möödunud 
+
+Kõik kontserdid toimuvad Eesti Nüüdismuusika Keskuse saalis (Pühavimu tn 9, Tallinn)
 
 **L 26.10.24 kl 19 DUOD I** <br />
 **Tarmo Johannes** (flööt) - **Merje Roomere** (viiul)<br />
