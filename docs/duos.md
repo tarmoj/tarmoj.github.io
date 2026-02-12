@@ -85,22 +85,6 @@ Kavas:
 
 <br/>
 
-**12. aprill 2025  kl 20(!) DUOD IV** <br />
-**Tarmo Johannes** (flööt) - **Dario Calderone** (kontrabass, Holland/Itaalia)
-
-
-![](img/tarmo-dario.png){: style="width:400px"}
-
-Kava: 
-
-**Bernhard Lang** (1957)  - "DW22. Winterlicht" (2010) bassflöödile ja kontrabassile. I osa<br>
-**Age Veeroos** (1973)  -  "Haav" veerandtoonflöödile (2025, esiettekanne)<br>
-**Simon Steen-Andersen** (1976)  - "Next to Beside Besides" #5 võimendatud pikolole & #9 kontrabassile (2003/2009) <br>
-**Dario Calderone** (1978) - "Aurale" (2017) kontrabassile<br>
-**Annea Lockwood** (1939) - "Jitterbug" (2010) instrumentidele ja fonogrammile<br>
-
-<br/> 
-<br/>
 
 **22. veebruar 2025 DUOD III** <br />
 **Tarmo Johannes** (flööt) - **Iris Oja** (hääl)
@@ -118,6 +102,25 @@ Kavas:
 **Salvatore Sciarrino** - "Immagine Fenicia" (1996/2000) võimendatud flöödile<br />
 **Beat Furrer** -  "auf tönernen füssen" (2001) võimendatud flöödile ja häälele<br />
 
+<br/>
+
+**12. aprill 2025  kl 20(!) DUOD IV** <br />
+**Tarmo Johannes** (flööt) - **Dario Calderone** (kontrabass, Holland/Itaalia)
+
+
+![](img/tarmo-dario.png){: style="width:400px"}
+
+Kava: 
+
+**Bernhard Lang** (1957)  - "DW22. Winterlicht" (2010) bassflöödile ja kontrabassile. I osa<br>
+**Age Veeroos** (1973)  -  "Haav" veerandtoonflöödile (2025, esiettekanne)<br>
+**Simon Steen-Andersen** (1976)  - "Next to Beside Besides" #5 võimendatud pikolole & #9 kontrabassile (2003/2009) <br>
+**Dario Calderone** (1978) - "Aurale" (2017) kontrabassile<br>
+**Annea Lockwood** (1939) - "Jitterbug" (2010) instrumentidele ja fonogrammile<br>
+
+<br/> 
+<br/>
+
 
 <br/> 
 
@@ -128,7 +131,7 @@ Täispilet 15€ sooudspilet 10 €
 muusikalinna noortepilet 5 € 
 
 
-Piletid [Fientast](https://fienta.com/et/duod-iv) või kohapeal.
+Piletid [Fientast](https://fienta.com/et/duod-v) või kohapeal.
  
 
 

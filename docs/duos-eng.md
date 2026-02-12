@@ -125,7 +125,7 @@ Full 15€ reduced 10 €
 Music City youth ticket 5 € 
 
 
-... at [Fienta](https://fienta.com/et/duod-iv) or on spot.
+... at [Fienta](https://fienta.com/et/duod-v) or on spot.
  
 
 
